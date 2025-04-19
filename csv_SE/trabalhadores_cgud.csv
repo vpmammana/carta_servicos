@@ -1,4 +1,4 @@
-area|publico_alvo|SERVIÇO|DESCRIÇÃO|LINK  PARA MATERIAL REFERENTE (quando o conteúdo já existe no site MTE)|Link 2|LINK SITES - DENUNCIA E/OU CADASTRAMENTO (quando possuir)|EMAIL - PARA SOLICITAÇÕES  (quando possuir)|TELEFONE - DENUNCIA E/OU INFORMAÇÃO (quando possuir)
+area|publico_alvo|servico|descricao|link_mte|link_mte|link_denuncia_cadastramento|email_solicitacoes|telefone_denuncia_informacoes
 CGUD|trabalhadores|Agendamento para as Unidades Descentralizadas|Agendamento para atendimento presencial nas Unidades Descentralizadas para os serviços de Abono Salarial, Dúvidas sobre a Carteira de Trabalho, Orientação Trabalhista, RAIS e CAGED e Seguro-Desemprego|https://atendimento.trabalho.gov.br|https://saaweb.mte.gov.br|||
 CGUD|trabalhadores|Dúvidas sobre o Abono Salarial|Dúvidas relacionadas sobre o abono salarial|https://atendimento.trabalho.gov.br|https://contatos.trabalho.gov.br|||
 CGUD|trabalhadores|Dúvidas sobre a Carteira de Trabalho|Dúvidas relacionadas sobre a Carteira de Trabalho|https://atendimento.trabalho.gov.br|https://contatos.trabalho.gov.br|||
